@@ -1,0 +1,23 @@
+     .our{
+    text-align: center;
+    }
+    .PDL{
+    
+    text-align: center;
+    
+    }
+    .lorem{
+        width: 60%;
+        text-align: center;
+   
+    }
+    .item{
+        float:left;
+        width: 33%;
+
+    }
+    .clearfix{
+        clear: left;
+        
+    }
+   
